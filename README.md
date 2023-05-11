@@ -1,4 +1,4 @@
-# 📦 Knab_chat 
+# 📦 LLM_chat 
 ```
 ⬆️ (Replace above with your app's name)
 ```
